@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nagipragalathan@gmail.com**
 
-- 📄 Know about my experiences [I work for Limra's testing team. I'm contributing several Python modules. In addition to being a full stack developer in Django, Flask, and React, my favourite modules in my contribution are cryptography and easyhtml.](I work for Limra's testing team. I'm contributing several Python modules. In addition to being a full stack developer in Django, Flask, and React, my favourite modules in my contribution are cryptography and easyhtml.)
+- 📄 Know about my experiences [I workrd at Limra's testing team. I'm contributing several Python modules. In addition to being a full stack developer in Django, Flask, and React, my favourite modules in my contribution are cryptography and easyhtml.]
 
 - ⚡ Fun fact **The first alarm clock only rings at 4 a.m.**
 

@@ -7,6 +7,8 @@
 
 - 🏫: I'm Pursuing [B.E CSE at JEC"24](B.E CSE at JEC"24)
 
+- 👨‍💼: &nbsp; [Python](https://pypi.org/project/TerminalDesigner/) **Open Source Contributor**
+
 - 💬 Ask me about **anything in technology, I am happy to help you**
 
 - 📫 How to reach me **nagipragalathan@gmail.com**

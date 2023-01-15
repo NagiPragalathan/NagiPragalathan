@@ -320,7 +320,7 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 <table align="center">
   <tr>
     <td align="center" width="1000">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagipragalathan&show_icons=true&locale=en&layout=compact" alt="nagipragalathan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagipragalathan&show_icons=true&locale=en&layout=compact" alt="nagipragalathan" /></p>
 </td>
 <tr>
     <td align="center" width="1000">

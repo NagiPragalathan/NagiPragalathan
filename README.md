@@ -139,33 +139,13 @@ C#                                 █░░░░░░░░░░░░░░
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-<a href="https://twitter.com/nagipragalathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagipragalathan" height="30" width="40" /> <br>Twiter
-    </td>
-    <td align="center" width="96"></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nagi-pragalathan-n-a03a55230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nagi-pragalathan-n-a03a55230" height="30" width="40" /> <br>Linked in
-    </td>
-    <td align="center" width="96"></a>
-<a href="https://fb.com/nagi pragalathan n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nagi pragalathan n" height="30" width="40" /> <br>FaceBook
-    </td>
-    <td align="center" width="96"><tr>
-    <br>Twiter
-    </td>
-    <td align="center" width="96"></a>
-<a href="https://instagram.com/nagipragalathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nagipragalathan" height="30" width="40" /><br>Instagram
-    </td>
-    <td align="center" width="96"></a></a>
-<a href="https://medium.com/@nagipragalathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nagipragalathan" height="30" width="40" /><br>medium
-    </td>
-    <td align="center" width="96"></a></a>
+<a href="https://twitter.com/nagipragalathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagipragalathan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nagi-pragalathan-n-a03a55230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nagi-pragalathan-n-a03a55230" height="30" width="40" /></a>
+<a href="https://fb.com/nagi pragalathan n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nagi pragalathan n" height="30" width="40" /></a>
+<a href="https://instagram.com/nagipragalathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nagipragalathan" height="30" width="40" /></a>
+<a href="https://medium.com/@nagipragalathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nagipragalathan" height="30" width="40" /></a>
 <a href="https://discord.gg/5182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5182" height="30" width="40" /></a>
 </p>
-<br>discard
-    </td>
-
-  </tr>
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 <table align="center">
@@ -336,3 +316,20 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
       <br>G Cloud
     </td>
   </tr>
+
+<table align="center">
+  <tr>
+    <td align="center" width="1000">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagipragalathan&show_icons=true&locale=en&layout=compact" alt="nagipragalathan" /></p>
+</td>
+<tr>
+    <td align="center" width="1000">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagipragalathan&show_icons=true&locale=en" alt="nagipragalathan" /></p>
+</td>
+<tr>
+    <td align="center" width="1000">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagipragalathan&" alt="nagipragalathan" /></p>
+</td>
+<tr>
+    <td align="center" width="1000">
+</table>

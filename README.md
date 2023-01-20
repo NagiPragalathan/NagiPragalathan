@@ -131,12 +131,6 @@ C#                               █░░░░░░░░░░░░░░�
 ```
 
 
-
- Last Updated on 15/01/2023 01:55:25 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nagipragalathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagipragalathan" height="30" width="40" /></a>

@@ -1,6 +1,6 @@
 <h2>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Nagi Pragalathan ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Web3 Hackathon 🏆🥇 ×2 | Open source contributor | co-founder at gryffindors | Intern at limra United technology | JEC"24
+<p><em>Web3 Hackathon 🏆🥇 × 3 | Open source contributor | co-founder at gryffindors | Intern at limra United technology | JEC"24
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/NagiPragalathan?label=Follow)](https://twitter.com/intent/follow?screen_name=NagiPragalathan)

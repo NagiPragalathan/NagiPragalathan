@@ -1,4 +1,4 @@
-<h2>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Nagi Pragalathan ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Nagi Pragalathan ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>[![](https://visitcount.itsvg.in/api?id=NagiPragalathan&icon=2&color=5)](https://visitcount.itsvg.in)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Web3 Hackathon 🏆🥇 × 3 | Open source contributor | co-founder at gryffindors | Intern at limra United technology | JEC"24
 </em></p>
@@ -327,3 +327,12 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 <tr>
     <td align="center" width="1000">
 </table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NagiPragalathan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NagiPragalathan&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+

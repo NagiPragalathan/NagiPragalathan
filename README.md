@@ -19,7 +19,7 @@ Effective Computer Engineering major now enrolled at Jaya Engineering College se
 
 - 👨‍💻 All of my projects are available at [http://nagipragalathan.pythonanywhere.com/](http://nagipragalathan.pythonanywhere.com/)
 
-- 🏫: I'm Pursuing [B.E CSE at JEC"24](B.E CSE at JEC"24)
+- 🏫: I'm Pursuing [B.E CSE at JEC"24](https://jec.ac.in/)
 
 - 👨‍💼: &nbsp; [Python](https://pypi.org/project/TerminalDesigner/) **Open Source Contributor**
 

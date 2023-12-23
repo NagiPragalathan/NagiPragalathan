@@ -36,7 +36,7 @@ Effective Computer Engineering major now enrolled at Jaya Engineering College se
 ```Python
 NagiPragalathan = {
     pronouns: "He" | "Him",
-    code: ["Python","Javascript", "Java", "Web3"],
+    code: ["Python","Javascript", "Java"],
     askMeAbout: ["web3 dev", "tech", "app dev", "Fullstack dev"],
     technologies: {
         backEnd: {
@@ -343,3 +343,6 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 # Contribution
 
 ![snake gif](https://raw.githubusercontent.com/NagiPragalathan/NagiPragalathan/eb8842c58262cfc3019e5c91b9202948fe437254/github-contribution-grid-snake.svg)
+
+[![Video Title](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+

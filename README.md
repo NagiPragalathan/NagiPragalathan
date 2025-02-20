@@ -4,7 +4,7 @@
 
 - 🏫 **Education**: Recently graduated with a degree in Computer Science Engineering
 - 👨‍💻 **Open Source Contributor**: Actively contributing to projects that advance the Python and Web3 ecosystem
-- 💬 **I love talking about**: JavaScript, Web3, AI (LLM), Blockchain
+- 💬 **I love talking about**: Web3, AI (LLM)
 - 💡 **Always exploring**: New technologies, Hackathons, and open-source opportunities
 - 📫 **Reach out to me**: nagipragalathan@gmail.com
 - 🌐 **Connect with me on LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nagi-pragalathan/)

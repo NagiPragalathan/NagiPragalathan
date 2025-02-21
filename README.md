@@ -1,4 +1,4 @@
-# NagiPragalathan
+# NagiPragalathan Nagimani
 
 👋 Hi there! I'm Nagi, a Full Stack Developer passionate about building innovative solutions. Constantly learning and exploring new technologies, I enjoy working with AI, blockchain, and game development. Currently, I'm honing my skills to contribute to the tech community and make an impact in the world of software development.
 

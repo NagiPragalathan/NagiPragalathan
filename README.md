@@ -1,15 +1,43 @@
-# NagiPragalathan Nagimani
+```
+ _______                 .____________                             .__          __  .__                        _______   
+ \      \ _____     ____ |__\______   \____________     _________  |  | _____ _/  |_|  |__ _____    ____       \      \  
+ /   |   \\__  \   / ___\|  ||     ___/\_  __ \__  \   / ___\__  \ |  | \__  \\   __\  |  \\__  \  /    \      /   |   \ 
+/    |    \/ __ \_/ /_/  >  ||    |     |  | \// __ \_/ /_/  > __ \|  |__/ __ \|  | |   Y  \/ __ \|   |  \    /    |    \
+\____|__  (____  /\___  /|__||____|     |__|  (____  /\___  (____  /____(____  /__| |___|  (____  /___|  / /\ \____|__  /
+        \/     \//_____/                           \//_____/     \/          \/          \/     \/     \/  \/         \/ 
+```
+*Full Stack Developer | Tech Enthusiast | Innovator*
 
-👋 Hi there! I'm Nagi, a Full Stack Developer passionate about building innovative solutions. Constantly learning and exploring new technologies, I enjoy working with AI, blockchain, and game development. Currently, I'm honing my skills to contribute to the tech community and make an impact in the world of software development.
+I’m a passionate Full Stack Developer who thrives on crafting cutting-edge solutions. With a love for learning, I dive deep into **AI**, **blockchain**, and **game development**, always chasing the next big idea. My mission? To sharpen my skills, contribute to the tech community, and leave a mark on the world of software development.
 
-- 🏫 **Education**: Recently graduated with a degree in Computer Science Engineering.
-- 👨‍💻 **Open Source Contributor**: Actively contributing to projects that advance the Python and Web3 ecosystem.
-- 💬 **I love talking about**: Web3, AI (LLM).
-- 💡 **Always exploring**: New technologies, Hackathons, and open-source opportunities
-- 📫 **Reach out to me**: nagipragalathan@gmail.com
-- 🌐 **Connect with me on LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nagi-pragalathan/)
-- 🐦 **Follow me on Twitter**: [Twitter](https://twitter.com/NagiPragalathan)
-- ✍️ **Read my articles**: [Medium](https://medium.com/@nagipragalathan)
-- 📚 **My GeeksforGeeks Contributions**: [GeeksforGeeks](https://www.geeksforgeeks.org/user/nagipragalathan/contributions/)
+---
 
-Feel free to explore my work, drop me a message, or collaborate on exciting projects. I'm always up for a new challenge! 🚀
+## 🌟 Quick Facts About Me  
+
+🏫 **Education**  
+- B.S. in Computer Science Engineering (Freshly graduated!)  
+
+👨‍💻 **Open Source Advocate**  
+- Actively boosting the **Python** and **Web3** ecosystems with my contributions.  
+
+💬 **Let’s Chat About**  
+- Web3 | AI (especially LLMs) | Tech trends  
+
+💡 **Currently Exploring**  
+- Emerging tech | Hackathons | Open-source adventures  
+
+---
+
+## 📬 Get in Touch  
+- **Email**: [nagipragalathan@gmail.com](mailto:nagipragalathan@gmail.com)  
+- **LinkedIn**: [Connect with me!](https://linkedin.com/in/nagipragalathan)  
+- **Twitter**: [Follow my journey](https://twitter.com/nagipragalathan)  
+- **Medium**: [Read my thoughts](https://medium.com/@nagipragalathan)  
+- **GeeksforGeeks**: [Check my contributions](https://geeksforgeeks.org/user/nagipragalathan)  
+
+---
+
+## 🚀 Let’s Build Something Awesome!  
+Got an idea? Want to collab? I’m all in for exciting projects and new challenges. Explore my work, shoot me a message, or let’s team up to create something extraordinary!  
+
+*“Code is poetry—let’s write some together.”*

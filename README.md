@@ -24,7 +24,7 @@ I’m a passionate Full Stack Developer who thrives on crafting cutting-edge sol
 - Web3 | AI (especially LLMs) | Tech trends  
 
 💡 **Currently Exploring**  
-- Emerging tech | Hackathons | Open-source adventures  
+- Emerging tech | Hackathons | Open-source adventures.
 
 ---
 

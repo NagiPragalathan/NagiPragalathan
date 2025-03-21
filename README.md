@@ -21,7 +21,7 @@ I’m a passionate Full Stack Developer who thrives on crafting cutting-edge sol
 - Actively boosting the **Python** and **Web3** ecosystems with my contributions.  
 
 💬 **Let’s Chat About**  
-- Web3 | AI (especially LLMs) | Tech trends  
+- Web3 | AI (especially LLMs) | Tech trends.
 
 💡 **Currently Exploring**  
 - Emerging tech | Hackathons | Open-source adventures.

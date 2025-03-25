@@ -15,7 +15,7 @@ I’m a passionate Full Stack Developer who thrives on crafting cutting-edge sol
 ## 🌟 Quick Facts About Me  
 
 🏫 **Education**  
-- B.S. in Computer Science Engineering (Freshly graduated!)  
+- B.S. in Computer Science Engineering (Freshly graduated!).
 
 👨‍💻 **Open Source Advocate**  
 - Actively boosting the **Python** and **Web3** ecosystems with my contributions.  

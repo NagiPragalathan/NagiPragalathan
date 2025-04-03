@@ -12,7 +12,7 @@ I’m a passionate Full Stack Developer who thrives on crafting cutting-edge sol
 
 ---
 
-## 🌟 Quick Facts About Me  
+## 🌟 Quick Facts About Me:
 
 🏫 **Education**  
 - B.E. in Computer Science Engineering (Freshly graduated!).

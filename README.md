@@ -36,7 +36,14 @@ I’m a passionate Full Stack Developer who thrives on crafting cutting-edge sol
 - **GeeksforGeeks**: [Check my contributions](https://geeksforgeeks.org/user/nagipragalathan)  
 
 ---
+## 📊 GitHub Stats & Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagipragalathan&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagipragalathan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagipragalathan&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
+---
 ## 🚀 Let’s Build Something Awesome!  
 Got an idea? Want to collab? I’m all in for exciting projects and new challenges. Explore my work, shoot me a message, or let’s team up to create something extraordinary!  
 

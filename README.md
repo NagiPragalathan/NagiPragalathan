@@ -8,7 +8,7 @@
 ```
 *Full Stack Developer | Tech Enthusiast | Innovator*
  
-I’m a passionate Full Stack Developer who thrives on crafting cutting-edge solutions. With a love for learning, I dive deep into **AI**, **blockchain**, and **game development**, always chasing the next big idea. My mission? To sharpen my skills, contribute to the tech community, and leave a mark on the world of software development.
+I’m a passionate Full Stack Developer who thrives on crafting cutting-edge solutions. With a love for learning, I dive deep into **AI**, **blockchain**, and **game development**, always chasing the next big idea. My mission? To sharpen my skills, contribute to the tech community, and leave a mark on the world of software development. 
 
 ---
 

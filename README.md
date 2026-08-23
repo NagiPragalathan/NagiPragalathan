@@ -39,7 +39,11 @@ I’m a passionate Full Stack Developer who thrives on crafting cutting-edge sol
 ## 📊 GitHub Stats & Top Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nagipragalathan&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagipragalathan&theme=radical" alt="GitHub Streak" />
+<div align="center">
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=NagiPragalathan&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
+
+</div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagipragalathan&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
